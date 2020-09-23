@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.divRange {
+  max-width: (100%/4);
+  display: flex;
+  flex-direction: row;
+}
+
+.txtRange {
+  width: 25px;
+}
+
+#divColor {
+  min-height: 20vh;
+  min-width: 20vw;
+}
