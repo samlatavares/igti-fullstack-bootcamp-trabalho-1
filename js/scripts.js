@@ -43,12 +43,12 @@ function paintDiv() {
   divColor.setAttribute(
     'style',
     'background-color:rgb(' +
-      firstText.value +
-      ',' +
-      secondText.value +
-      ',' +
-      thirdText.value +
-      ')'
+    firstText.value +
+    ',' +
+    secondText.value +
+    ',' +
+    thirdText.value +
+    ')'
   );
 }
 
